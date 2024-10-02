@@ -1,8 +1,8 @@
-# [Name]
+# [Samuel Clackler]
 ## [Assignment #]
-## [Submission date: MM/DD/YY]
+## [Submission date: 01/10/24]
 ## Worked with/sources 
-* example
+* Deacon Steiner
 * example
 * example
 * example
